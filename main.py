@@ -42,7 +42,7 @@ def login():
 
 def main():
     while True:
-        print('Welcome to Unity Bank \n')
+        print('Welcome to ASR Bank \n')
         print('Press: \n 1.To Login \t 2.To Register \t 3.To Exit \n')
         ch = int(input('Enter your choice:\n'))
         if ch == 1:
@@ -57,3 +57,4 @@ def main():
             print('Enter valid input')
 
 main()
+
